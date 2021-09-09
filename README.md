@@ -7,5 +7,5 @@
 - 💬 Ask me about ... Anything!
 - 📫 How to reach me: ... [Gmail](adithyav211@gmail.com)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I love Haribo
+- ⚡ Fun fact: ... I like to play the Ukulele
 
