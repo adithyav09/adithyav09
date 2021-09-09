@@ -9,5 +9,5 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I like to play the Ukulele
 
-[![Adithya's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=adithyav09)](https://github.com/anuraghazra/github-readme-stats)
+[![Adithya's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=adithyav09&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
