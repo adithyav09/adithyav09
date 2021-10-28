@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
 .inline-block {
   display: inline-block;
 }
@@ -18,15 +18,13 @@
   white-space: normal;
   width: 50%;
 }
-</style>
+</style> -->
 
 <div align="center">
   <img src="https://img.icons8.com/external-wanicon-flat-wanicon/96/000000/external-computer-free-time-wanicon-flat-wanicon.png"/>
 </div>
 
 <h1 align="center">Hi I am Adithya!</h1>
-
-<img src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/minify-css-javascript.png?itok=y-maXGCv"/>
 
 <div class="sections" align="center">
 
@@ -42,7 +40,7 @@
 
   <h2>Software Engineer and Machine Learning <br>Enthusiast</h2> 
 </div>
-<hr>
+
 <h2> Table of Contents</h2>
 <ul>
   <li><a href="#about-me">About Me</a></li>
@@ -50,7 +48,6 @@
   <li><a href="#schedule-chat">Book Appointment</a></li>
   <li><a href="#github-stats">GitHub Stats</a></li>
 </ul>
-<hr>
 
 <div align=center>
   <h2 id="about-me" align="center">A little about myself . . .</h2>
