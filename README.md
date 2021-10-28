@@ -29,9 +29,9 @@
 <div class="sections" align="center">
 
   <!-- Thinking Icon (software engineering) -->
-  <div style="margin-right: 20%;" align="center" class="inline-block">
+  <!-- <div style="margin-right: 20%;" align="center" class="inline-block">
     <img src="https://img.icons8.com/ios-filled/60/000000/learning.png"/>
-  </div>
+  </div> -->
 
   <!-- Robot Icon (machine learning) -->
   <div class="inline-block">
