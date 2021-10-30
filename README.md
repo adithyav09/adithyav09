@@ -94,37 +94,38 @@
 
   <h2>Connect on my socials!</h2>
   <br>
-  <!-- Email Address -->
-  <div class="inline-block">
-    <a href="mailto:adithyav211@gmail.com">
-      <img src="https://img.icons8.com/fluency/90/000000/gmail-new.png"/>
-    </a>
-    <h3>Google Mail</h3>
-  </div>
+  
+  <a href="mailto:adithyav211@gmail.com">
+    <img src="https://img.icons8.com/fluency/90/000000/gmail-new.png"/>
+  </a>
+  <a href="http://www.linkedin.com/in/adithya-venkatesh">
+    <img src="https://img.icons8.com/color/90/000000/linkedin.png"/>
+  </a>
+  <img src="https://img.icons8.com/color/90/000000/facebook.png"/>
+  <img src="https://img.icons8.com/fluency/90/000000/instagram-new.png"/>
 
+  <!-- Email Address -->
+  <!-- <div class="inline-block">
+  <h3>Google Mail</h3>
+  </div> -->
   <!-- Linkedin Profile -->
-  <div class="inline-block">
-    <a href="http://www.linkedin.com/in/adithya-venkatesh">
-      <img src="https://img.icons8.com/color/90/000000/linkedin.png"/>
-    </a>
+  <!-- <div class="inline-block">
     <h3>Linkedin</h3>
-  </div>
+  </div> -->
 
   <!-- Facebook Profile -->
-  <div class="inline-block">
+  <!-- <div class="inline-block">
     <a href="https://www.facebook.com/profile.php?id=100009287506279">
-      <img src="https://img.icons8.com/color/90/000000/facebook.png"/>
     </a>
     <h3>Facebook</h3>
-  </div>
+  </div> -->
 
   <!-- Instagram Profile -->
-  <div class="inline-block">
+  <!-- <div class="inline-block">
     <a href="https://www.instagram.com/adithya.vvs/">
-      <img src="https://img.icons8.com/fluency/90/000000/instagram-new.png"/>
     </a>
     <h3>Instagram</h3>
-  </div>
+  </div> -->
   <br>
   <br>
   <p>If you are interested in collaborating or connecting with me, do not hesitate to reach out!</p>
