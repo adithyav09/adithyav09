@@ -38,7 +38,7 @@
     <img src="https://img.icons8.com/external-wanicon-lineal-wanicon/60/000000/external-machine-learning-smart-industry-wanicon-lineal-wanicon.png"/>
   </div>
 
-  <h2>Software Engineer and Machine Learning <br>Enthusiast</h2> 
+  <h2>Full Stack Developer and Machine Learning <br>Enthusiast</h2> 
 </div>
 
 <h2> Table of Contents</h2>
