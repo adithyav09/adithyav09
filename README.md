@@ -135,7 +135,7 @@
 
 <div class="sections" id="schedule-chat" align="center">
   <h2>Schedule to chat!</h2>
-  <a href="https://calendly.com/adithyavenkatesh/30min">
+  <a href="https://calendly.com/adithyavenkatesh/15min">
     <img src="https://img.icons8.com/color/96/000000/calendar--v2.png"/>
   </a>
   <br>
